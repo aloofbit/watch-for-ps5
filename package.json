@@ -1,0 +1,17 @@
+{
+  "name": "watch-for-ps5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "aloofbit",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "puppeteer": "^5.5.0",
+    "puppeteer-extra": "^3.1.15",
+    "puppeteer-extra-plugin-stealth": "^2.6.5"
+  }
+}
